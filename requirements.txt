@@ -1,9 +1,12 @@
 click==7.1.1
 Flask==1.1.1
 Flask-WTF==0.14.3
+gitdb==4.0.2
+GitPython==3.1.0
 itsdangerous==1.1.0
 Jinja2==2.11.1
 MarkupSafe==1.1.1
 python-dotenv==0.12.0
+smmap==3.0.1
 Werkzeug==1.0.0
 WTForms==2.2.1
