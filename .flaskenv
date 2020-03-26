@@ -1,0 +1,1 @@
+FLASK_APP=tft_companion_app.py
